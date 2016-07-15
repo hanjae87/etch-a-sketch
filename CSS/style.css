@@ -49,8 +49,8 @@ table {
 
 .wrap {
 	background-color: #666666;
-	width: 500px;
-	height: 500px;
+	width: 1500px;
+	height: 1500px;
 }
 
 .rowPixel {
@@ -59,7 +59,6 @@ table {
 	height: 50px;
 	display: block;
 	border: none;
-	margin: none;
 }
 
 .columnPixel {
@@ -68,14 +67,9 @@ table {
 	height: 50px;
 	display: inline-block;
 	border: none;
-	margin: none
 }
 
 .color {
 	background-color: red;
-	width: 50px;
-	height: 50px;
-	display: block;
 	border: none;
-	margin: none;
 }
